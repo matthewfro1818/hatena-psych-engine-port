@@ -35,7 +35,18 @@ jobs:
           sudo apt-get install libvlc-dev
           sudo apt-get install libvlccore-dev
           haxelib setup ~/haxelib
-          haxelib install hxcpp > /dev/null --quiet
+          haxelib install lime
+          haxelib install openfl
+          haxelib install flixel
+          haxelib install flixel-addons
+          haxelib install flixel-ui
+          haxelib install flixel-tools
+          haxelib install SScript
+          haxelib install hxCodec
+          haxelib install tjson
+          haxelib git flxanimate https://github.com/ShadowMario/flxanimate dev
+          haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
+          haxelib git hxdiscord_rpc https://github.com/MAJigsaw77/hxdiscord_rpc
           haxe -cp ./setup -D analyzer-optimize -main Main --interp
       - name: Skip SScript setup mode
         run: echo 'oy9:showMacroty8:loopCosti25y10:includeAllfg' >> ~/settings.cocoa
@@ -64,7 +75,18 @@ jobs:
       - name: Install Haxelib
         run: |
           haxelib setup C:/haxelib
-          haxelib install hxcpp > /dev/null --quiet
+          haxelib install lime
+          haxelib install openfl
+          haxelib install flixel
+          haxelib install flixel-addons
+          haxelib install flixel-ui
+          haxelib install flixel-tools
+          haxelib install SScript
+          haxelib install hxCodec
+          haxelib install tjson
+          haxelib git flxanimate https://github.com/ShadowMario/flxanimate dev
+          haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
+          haxelib git hxdiscord_rpc https://github.com/MAJigsaw77/hxdiscord_rpc
           haxe -cp ./setup -D analyzer-optimize -main Main --interp
         shell: cmd
       - name: Skip SScript setup mode
@@ -93,7 +115,18 @@ jobs:
       - name: Install Haxelib
         run: |
           haxelib setup ~/haxelib
-          haxelib install hxcpp > /dev/null --quiet
+          haxelib install lime
+          haxelib install openfl
+          haxelib install flixel
+          haxelib install flixel-addons
+          haxelib install flixel-ui
+          haxelib install flixel-tools
+          haxelib install SScript
+          haxelib install hxCodec
+          haxelib install tjson
+          haxelib git flxanimate https://github.com/ShadowMario/flxanimate dev
+          haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
+          haxelib git hxdiscord_rpc https://github.com/MAJigsaw77/hxdiscord_rpc
           haxe -cp ./setup -D analyzer-optimize -main Main --interp
       - name: Skip SScript setup mode
         run: echo 'oy9:showMacroty8:loopCosti25y10:includeAllfg' >> ~/settings.cocoa
