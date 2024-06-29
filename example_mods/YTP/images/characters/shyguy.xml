@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shyguy.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="seconddown0000" x="0" y="0" width="320" height="240"/>
+	<SubTexture name="seconddown0001" x="0" y="0" width="320" height="240"/>
+	<SubTexture name="seconddown0002" x="320" y="0" width="320" height="240"/>
+	<SubTexture name="seconddown0003" x="320" y="0" width="320" height="240"/>
+	<SubTexture name="seconddown0004" x="320" y="0" width="320" height="240"/>
+	<SubTexture name="seconddown0005" x="320" y="0" width="320" height="240"/>
+	<SubTexture name="secondidle0000" x="640" y="0" width="320" height="240"/>
+	<SubTexture name="secondidle0001" x="640" y="0" width="320" height="240"/>
+	<SubTexture name="secondidle0002" x="0" y="240" width="320" height="240"/>
+	<SubTexture name="secondidle0003" x="0" y="240" width="320" height="240"/>
+	<SubTexture name="secondidle0004" x="320" y="240" width="320" height="240"/>
+	<SubTexture name="secondidle0005" x="320" y="240" width="320" height="240"/>
+	<SubTexture name="secondleft0000" x="640" y="240" width="320" height="240"/>
+	<SubTexture name="secondleft0001" x="640" y="240" width="320" height="240"/>
+	<SubTexture name="secondleft0002" x="0" y="480" width="320" height="240"/>
+	<SubTexture name="secondleft0003" x="0" y="480" width="320" height="240"/>
+	<SubTexture name="secondleft0004" x="0" y="480" width="320" height="240"/>
+	<SubTexture name="secondleft0005" x="0" y="480" width="320" height="240"/>
+	<SubTexture name="secondright0000" x="320" y="480" width="320" height="240"/>
+	<SubTexture name="secondright0001" x="320" y="480" width="320" height="240"/>
+	<SubTexture name="secondright0002" x="640" y="480" width="320" height="240"/>
+	<SubTexture name="secondright0003" x="640" y="480" width="320" height="240"/>
+	<SubTexture name="secondright0004" x="640" y="480" width="320" height="240"/>
+	<SubTexture name="secondright0005" x="640" y="480" width="320" height="240"/>
+	<SubTexture name="secondup0000" x="0" y="720" width="320" height="240"/>
+	<SubTexture name="secondup0001" x="0" y="720" width="320" height="240"/>
+	<SubTexture name="secondup0002" x="320" y="720" width="320" height="240"/>
+	<SubTexture name="secondup0003" x="320" y="720" width="320" height="240"/>
+	<SubTexture name="secondup0004" x="320" y="720" width="320" height="240"/>
+	<SubTexture name="secondup0005" x="320" y="720" width="320" height="240"/>
+</TextureAtlas>

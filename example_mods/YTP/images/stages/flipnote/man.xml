@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="man.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="man0000" x="50" y="50" width="684" height="580"/>
+	<SubTexture name="man0001" x="784" y="50" width="684" height="580"/>
+	<SubTexture name="man0002" x="50" y="680" width="684" height="580"/>
+	<SubTexture name="man0003" x="784" y="680" width="684" height="580"/>
+	<SubTexture name="man0004" x="50" y="1310" width="684" height="580"/>
+	<SubTexture name="man0005" x="784" y="1310" width="684" height="580"/>
+</TextureAtlas>

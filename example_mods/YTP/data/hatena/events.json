@@ -1,0 +1,78 @@
+{
+	"song": {
+		"events": [
+			[
+				102300,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gizmoboo"
+					]
+				]
+			],
+			[
+				180500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shyguysolo"
+					]
+				]
+			],
+			[
+				220800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"shyguy"
+					]
+				]
+			],
+			[
+				227100,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gizmoboo"
+					]
+				],
+				null,
+				"GF Sing"
+			],
+			[
+				246300,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gizmoboo"
+					]
+				]
+			],
+			[
+				273600,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				273700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"lonewarrior"
+					]
+				]
+			]
+		]
+	}
+}

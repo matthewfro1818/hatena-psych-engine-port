@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shyguysolo.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="firstdown0000" x="0" y="0" width="256" height="192"/>
+	<SubTexture name="firstdown0001" x="0" y="0" width="256" height="192"/>
+	<SubTexture name="firstdown0002" x="256" y="0" width="256" height="192"/>
+	<SubTexture name="firstdown0003" x="256" y="0" width="256" height="192"/>
+	<SubTexture name="firstdown0004" x="256" y="0" width="256" height="192"/>
+	<SubTexture name="firstdown0005" x="256" y="0" width="256" height="192"/>
+	<SubTexture name="firstidle0000" x="512" y="0" width="256" height="192"/>
+	<SubTexture name="firstidle0001" x="512" y="0" width="256" height="192"/>
+	<SubTexture name="firstidle0002" x="768" y="0" width="256" height="192"/>
+	<SubTexture name="firstidle0003" x="768" y="0" width="256" height="192"/>
+	<SubTexture name="firstidle0004" x="0" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0005" x="0" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0006" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0007" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0008" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0009" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0010" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0011" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0012" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstidle0013" x="256" y="192" width="256" height="192"/>
+	<SubTexture name="firstleft0000" x="512" y="192" width="256" height="192"/>
+	<SubTexture name="firstleft0001" x="512" y="192" width="256" height="192"/>
+	<SubTexture name="firstleft0002" x="768" y="192" width="256" height="192"/>
+	<SubTexture name="firstleft0003" x="768" y="192" width="256" height="192"/>
+	<SubTexture name="firstleft0004" x="768" y="192" width="256" height="192"/>
+	<SubTexture name="firstleft0005" x="768" y="192" width="256" height="192"/>
+	<SubTexture name="firstright0000" x="0" y="384" width="256" height="192"/>
+	<SubTexture name="firstright0001" x="0" y="384" width="256" height="192"/>
+	<SubTexture name="firstright0002" x="256" y="384" width="256" height="192"/>
+	<SubTexture name="firstright0003" x="256" y="384" width="256" height="192"/>
+	<SubTexture name="firstright0004" x="256" y="384" width="256" height="192"/>
+	<SubTexture name="firstright0005" x="256" y="384" width="256" height="192"/>
+	<SubTexture name="firstup0000" x="512" y="384" width="256" height="192"/>
+	<SubTexture name="firstup0001" x="512" y="384" width="256" height="192"/>
+	<SubTexture name="firstup0002" x="768" y="384" width="256" height="192"/>
+	<SubTexture name="firstup0003" x="768" y="384" width="256" height="192"/>
+	<SubTexture name="firstup0004" x="768" y="384" width="256" height="192"/>
+	<SubTexture name="firstup0005" x="768" y="384" width="256" height="192"/>
+</TextureAtlas>
